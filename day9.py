@@ -29,5 +29,4 @@ orang1.kenalan()
 mhs = Mahasiswa("Alice", 20, "Universitas XYZ")
 mhs.kenalan()
 
-pkj = Pekerja("Bob", 30, "Perusahaan ABC")
-pkj.kenalan()
+pkj = Pekerja("Bob", 30, "Perusahaan ABC") 

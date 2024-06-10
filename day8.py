@@ -18,4 +18,8 @@ pesawat = Pesawat()
 pesawat.move()  # Output: Terbang di udara
 
 kapal = Kapal()
+<<<<<<< HEAD
 kapal.move()  # Output: Berlayar di laut
+=======
+kapal.move()  # Output: Berlayar di laut
+>>>>>>> 359676dd6861661d004fa67066c350ca0e4de966
