@@ -6,7 +6,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("Jam")
+        self.setWindowTitle("Jam")  
         self.label = QLabel(self)
         self.label.setAlignment(Qt.AlignCenter)
         self.setCentralWidget(self.label)
